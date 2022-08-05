@@ -5,5 +5,6 @@
 ## Instructions
 
 1. Open the Bikeee-challenge folder in VS code editor
-2. `npm start`
-3. Upload the attached csv file in the browser
+2. `npm i` to install the dependencies
+3. `npm start`
+4. Upload the attached csv file in the browser
